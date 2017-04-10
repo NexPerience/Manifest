@@ -8,7 +8,7 @@
   <remote  name="cm"
            fetch=".."
            review="review.lineageos.org"
-           revision="refs/heads/cm-14.1"/>
+           revision="refs/heads/cm-14.1_android-7.1.2_r2"/>
 
   <remote  name="cyan"
            fetch="https://github.com/LineageOS"
